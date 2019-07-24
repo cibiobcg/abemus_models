@@ -1,6 +1,6 @@
 # ABEMUS Error Models
 
-Here you can find platform-specific Error Models computed by ABEMUS as described and investigated in Casiraghi et al.
+Here you can find platform-specific Error Models computed by ABEMUS as described and investigated in the original manuscript (Casiraghi et al. 2019, submitted)
 
 Platforms:
 
