@@ -1,3 +1,7 @@
+# Test dataset
+
+The folder **test_dataset_abemus.tar.gz** contains a ready to use dataset to explore ABEMUS workflow as described in the [Usage](https://github.com/cibiobcg/abemus/wiki/Usage) page of the [Wiki](https://github.com/cibiobcg/abemus/wiki).
+
 # ABEMUS Error Models
 
 You can find platform-specific Error Models computed by ABEMUS as described and investigated in the original manuscript (Casiraghi et al. 2019, submitted) at https://bcglab.cibio.unitn.it/abemus_models.
@@ -11,6 +15,3 @@ You can find platform-specific Error Models computed by ABEMUS as described and 
 |          Agilent HaloPlex Exome         |   Haloplex   |    36 Mbp   | Illumina HiSeq 2000 |     WCM     |      50     |       PE      |         26855148         |
 
 
-# Test dataset
-
-The folder **test_dataset_abemus.tar.gz** contains a ready to use dataset to explore ABEMUS workflow as described in the [Usage](https://github.com/cibiobcg/abemus/wiki/Usage) page of the [Wiki](https://github.com/cibiobcg/abemus/wiki).
