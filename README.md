@@ -1,6 +1,6 @@
 # Test dataset
 
-The folder **`test_dataset_abemus.tar.gz`** contains a ready to use dataset to explore ABEMUS workflow as described in the [Usage](https://github.com/cibiobcg/abemus/wiki/Usage) page of the [Wiki](https://github.com/cibiobcg/abemus/wiki).
+The folder **`test_dataset_abemus`** contains a ready to use dataset to explore ABEMUS workflow as described in the [Usage](https://github.com/cibiobcg/abemus/wiki/Usage) page of the [Wiki](https://github.com/cibiobcg/abemus/wiki).
 
 # Platform-specific Error Models
 
