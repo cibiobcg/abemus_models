@@ -2,7 +2,7 @@
 
 The folder **test_dataset_abemus.tar.gz** contains a ready to use dataset to explore ABEMUS workflow as described in the [Usage](https://github.com/cibiobcg/abemus/wiki/Usage) page of the [Wiki](https://github.com/cibiobcg/abemus/wiki).
 
-# ABEMUS Error Models
+# Platform-specific Error Models
 
 You can find platform-specific Error Models computed by ABEMUS as described and investigated in the original manuscript (Casiraghi et al. 2019, submitted) at https://bcglab.cibio.unitn.it/abemus_models.
 
@@ -13,5 +13,3 @@ You can find platform-specific Error Models computed by ABEMUS as described and 
 |     Roche NimbleGen SeqCap Exome v3     | Nimble_Exome |    64 Mbp   | Illumina HiSeq 2000 |     WCM     |      40     |       SE      | Beltran et al, submitted |
 |   Roche NimbleGen N250 targeted panel   |  Nimble_N250 |   3.2 Mbp   | Illumina HiSeq 2000 |     WCM     |      20     |       PE      |            --            |
 |          Agilent HaloPlex Exome         |   Haloplex   |    36 Mbp   | Illumina HiSeq 2000 |     WCM     |      50     |       PE      |         26855148         |
-
-
