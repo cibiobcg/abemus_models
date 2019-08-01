@@ -4,7 +4,7 @@ The folder **`test_dataset_abemus`** contains a ready to use dataset to explore 
 
 # Platform-specific Error Models
 
-You can find platform-specific Error Models computed by ABEMUS as described and investigated in the original manuscript (Casiraghi et al. 2019, submitted) at https://bcglab.cibio.unitn.it/abemus_models.
+You can find platform-specific Error Models computed by ABEMUS as described and investigated in the original manuscript (Casiraghi et al. 2019, submitted) at https://bcglab.cibio.unitn.it/abemus_models
 
 |                  ﻿Target                 |  Folder Name | Target Size |      Sequencing     | Institution | n. Controls | Seq. Protocol |           PMID           |
 |:---------------------------------------:|:------------:|:-----------:|:-------------------:|:-----------:|:-----------:|:-------------:|:------------------------:|
