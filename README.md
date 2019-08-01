@@ -1,6 +1,6 @@
 # ABEMUS Error Models
 
-Here you can find platform-specific Error Models computed by ABEMUS as described and investigated in the original manuscript (Casiraghi et al. 2019, submitted).
+You can find platform-specific Error Models computed by ABEMUS as described and investigated in the original manuscript (Casiraghi et al. 2019, submitted) at https://bcglab.cibio.unitn.it/abemus_models.
 
 |                  ﻿Target                 |  Folder Name | Target Size |      Sequencing     | Institution | n. Controls | Seq. Protocol |           PMID           |
 |:---------------------------------------:|:------------:|:-----------:|:-------------------:|:-----------:|:-----------:|:-------------:|:------------------------:|
