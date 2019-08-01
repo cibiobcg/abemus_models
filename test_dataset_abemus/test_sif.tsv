@@ -1,0 +1,5 @@
+PT01	TUMOR_A	/my_project/data/TUMOR_A.bam	CTRL_A	/my_project/data/CTRL_A.bam
+PT01	TUMOR_B	/my_project/data/TUMOR_B.bam	CTRL_B	/my_project/data/CTRL_B.bam
+PT02	TUMOR_C	/my_project/data/TUMOR_C.bam	CTRL_C	/my_project/data/CTRL_C.bam
+PT03	NA	NA	CTRL_D	/my_project/data/CTRL_D.bam
+PT04	TUMOR_E	/my_project/data/TUMOR_E.bam	NA	NA
