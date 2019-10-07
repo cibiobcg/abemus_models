@@ -1,7 +1,7 @@
 # Test dataset
 
 The folder **`test_dataset_abemus`** contains a ready to use dataset to explore ABEMUS workflow as described in the [Usage](https://github.com/cibiobcg/abemus/wiki/Usage) page of the [Wiki](https://github.com/cibiobcg/abemus/wiki).
-Download the **test_dataset_abemus.tar.gz** file and extract with `tar xvzf test_dataset_abemus.tar.gz`
+Download the **test_dataset_abemus.tar.gz** file, extract with `tar xvzf test_dataset_abemus.tar.gz` and follow steps are reported in the [test_example](https://github.com/cibiobcg/abemus/blob/master/test_example.R).
 
 # Platform-specific Error Models
 
